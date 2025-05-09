@@ -1,1 +1,1 @@
-# Data-Structures and Algorithm Questions fron different topics. 
+# Data-Structures and Algorithm Questions from different topics. 
