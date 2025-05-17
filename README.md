@@ -7,3 +7,5 @@ Array
 String
 
 Two Pointers
+
+Greedy
