@@ -11,3 +11,5 @@ Two Pointers
 Greedy
 
 Sorting
+
+Binary Search
