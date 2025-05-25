@@ -15,3 +15,5 @@ Sorting
 Binary Search
 
 Depth-First Search
+
+Breadth-First Search
