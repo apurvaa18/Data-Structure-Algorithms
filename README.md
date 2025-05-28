@@ -21,3 +21,5 @@ Breadth-First Search
 Dynamic Programming
 
 Matrix
+
+Binary Tree
