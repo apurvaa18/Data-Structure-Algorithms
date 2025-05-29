@@ -18,6 +18,8 @@ Depth-First Search
 
 Breadth-First Search
 
+Tree
+
 Dynamic Programming
 
 Matrix
