@@ -24,7 +24,7 @@ Dynamic Programming
 
 Math
 
-hash Table
+Hash Table
 
 Matrix
 
