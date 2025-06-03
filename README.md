@@ -24,6 +24,8 @@ Dynamic Programming
 
 Math
 
+hash Table
+
 Matrix
 
 Binary Tree
