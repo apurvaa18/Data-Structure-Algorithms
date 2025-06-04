@@ -2,7 +2,7 @@
 
 TOPICS:-
 
-Array                                    Heap (Priority Queue)
+Array                                   
 
 String
 
@@ -27,6 +27,8 @@ Math
 Hash Table
 
 Matrix
+
+Heap (Priority Queue)
 
 Binary Tree
 
