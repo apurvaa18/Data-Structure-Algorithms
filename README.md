@@ -2,7 +2,7 @@
 
 TOPICS:-
 
-Array
+Array                                    Heap (Priority Queue)
 
 String
 
