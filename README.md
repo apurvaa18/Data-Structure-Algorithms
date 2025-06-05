@@ -33,3 +33,5 @@ Heap (Priority Queue)
 Binary Tree
 
 Backtracking
+
+Divide and Conquer
