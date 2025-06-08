@@ -28,6 +28,8 @@ Hash Table
 
 Matrix
 
+Prefix Sum
+
 Heap (Priority Queue)
 
 Binary Tree
