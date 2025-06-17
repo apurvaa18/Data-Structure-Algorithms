@@ -45,3 +45,5 @@ Stack
 Recursion
 
 Sliding Window
+
+Linked List
